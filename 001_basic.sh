@@ -1,0 +1,2 @@
+echo "Assalam alaikum bhai!!"
+

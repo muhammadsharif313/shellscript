@@ -1,0 +1,3 @@
+Sun Nov 10 19:00:40 UTC 2024
+/home/muhammadshariff313/myscript
+shell-scripting.us-central1-c.c.iqra-gcp-project01.internal
